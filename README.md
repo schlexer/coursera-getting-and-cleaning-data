@@ -5,7 +5,7 @@ One of the most exciting areas in all of data science right now is wearable comp
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
-Here are the data for the project:
+Here are the data for the project (copy the entire link with spaces):
 
 https://d396qusza40orc.cloudfront.net/getdata/projectfiles/UCI HAR Dataset.zip 
 
