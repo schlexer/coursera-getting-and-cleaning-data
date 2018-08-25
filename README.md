@@ -15,4 +15,4 @@ https://d396qusza40orc.cloudfront.net/getdata/projectfiles/UCI HAR Dataset.zip
 3) The script creates a tidy data set saved as tidy_data.txt in your working directory.
 
 ## The codebook
-Check out the codebook.md above to follow the transormtransformations step.
+Check out the codebook.md above to follow the transformations step.
